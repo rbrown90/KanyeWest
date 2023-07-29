@@ -1,0 +1,17 @@
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/bin/Debug/net6.0/KanyeWest
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/bin/Debug/net6.0/KanyeWest.deps.json
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/bin/Debug/net6.0/KanyeWest.runtimeconfig.json
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/bin/Debug/net6.0/KanyeWest.dll
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/bin/Debug/net6.0/KanyeWest.pdb
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/obj/Debug/net6.0/KanyeWest.csproj.AssemblyReference.cache
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/obj/Debug/net6.0/KanyeWest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/obj/Debug/net6.0/KanyeWest.AssemblyInfoInputs.cache
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/obj/Debug/net6.0/KanyeWest.AssemblyInfo.cs
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/obj/Debug/net6.0/KanyeWest.csproj.CoreCompileInputs.cache
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/obj/Debug/net6.0/KanyeWest.csproj.CopyComplete
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/obj/Debug/net6.0/KanyeWest.dll
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/obj/Debug/net6.0/refint/KanyeWest.dll
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/obj/Debug/net6.0/KanyeWest.pdb
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/obj/Debug/net6.0/KanyeWest.genruntimeconfig.cache
+/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/obj/Debug/net6.0/ref/KanyeWest.dll

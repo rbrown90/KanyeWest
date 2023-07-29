@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "koPF3W04qdKZcFoxW9NTerAGHy6eSZgYVKeS/2tiS6sUeXiZdp6r5pr44auC6hzrE/+ppDgKrI8jCK2/h5ckRg==",
+  "success": true,
+  "projectFilePath": "/Users/rakinbrown/repos/KanyeAndRonSwanson/KanyeWest/KanyeWest.csproj",
+  "expectedPackageFiles": [
+    "/Users/rakinbrown/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
